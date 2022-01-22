@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @GTNPLEx and I like Cyberwonderland, a wish a did this 10 years ago ^_*
 - 👀 I’m interested in blockchain and virtual connections
-- 🌱 I’m currently learning crypto; contracts, encyptments,
+- 🌱 I’m currently learning 
+- 💞️ Crypto Contracting
+- 💞️ Encyptments,
 - 💞️ Remote management
 - 💞️ SSH Tunneling 
 * 💞️ Data API

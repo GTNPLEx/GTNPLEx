@@ -50,9 +50,9 @@ For me, programming is more than just writing code—it’s about creating exper
 
 I’m always open to collaborations, feedback, or just chatting about cool tech and creative projects. Feel free to reach out!
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **Twitter**: [@YourHandle](https://twitter.com/YourHandle)
-- **Discord**: YourHandle#1234
+- **Email**: [your-email@example.com](mailto:pbronck@gmail.com)
+- **Twitter**: [@YourHandle](https://twitter.com/pbronck)
+- **Discord**: pbrnck#1983
 
 ---
 
